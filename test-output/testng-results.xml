@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\login 04_25_2019 18_35_09.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\login 04_25_2019 18_35_09.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\login 04_25_2019 18_35_15.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\login 04_25_2019 18_35_15.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\login 04_25_2019 18_35_26.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\login 04_25_2019 18_35_26.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectDatabase 04_25_2019 18_35_29.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectDatabase 04_25_2019 18_35_29.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectDatabase 04_25_2019 18_35_37.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectDatabase 04_25_2019 18_35_37.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectClientId 04_25_2019 18_35_40.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectClientId 04_25_2019 18_35_40.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectClientId 04_25_2019 18_35_44.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectClientId 04_25_2019 18_35_44.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectPreferenceEmr 04_25_2019 18_35_45.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectPreferenceEmr 04_25_2019 18_35_45.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectPreferenceEmr 04_25_2019 18_35_52.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectPreferenceEmr 04_25_2019 18_35_52.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheWindowEhr 04_25_2019 18_36_15.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheWindowEhr 04_25_2019 18_36_15.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheWindowEhr 04_25_2019 18_36_17.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheWindowEhr 04_25_2019 18_36_17.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheFrontDesk 04_25_2019 18_36_18.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheFrontDesk 04_25_2019 18_36_18.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheFrontDesk 04_25_2019 18_36_32.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheFrontDesk 04_25_2019 18_36_32.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheAddNewPatirntForm 04_25_2019 18_36_49.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheAddNewPatirntForm 04_25_2019 18_36_49.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\createNewPatient 04_25_2019 18_37_43.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\createNewPatient 04_25_2019 18_37_43.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_37_44.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_37_44.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_38_05.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_38_05.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_38_11.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_38_11.png' height='100' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_38_17.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_38_17.png' height='100' width='200'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="241374" started-at="2019-04-25T13:04:20Z" finished-at="2019-04-25T13:08:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="241374" started-at="2019-04-25T13:04:20Z" finished-at="2019-04-25T13:08:21Z">
+      <class name="com.kmginfotech.medusaemr.scenarios.CreatePatient">
+        <test-method status="PASS" signature="browserLaunch(java.lang.String)[pri:0, instance:com.kmginfotech.medusaemr.scenarios.CreatePatient@22635ba0]" name="browserLaunch" is-config="true" duration-ms="47709" started-at="2019-04-25T18:34:20Z" finished-at="2019-04-25T18:35:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="login(java.lang.String)[pri:1, instance:com.kmginfotech.medusaemr.scenarios.CreatePatient@22635ba0]" name="login" duration-ms="19243" started-at="2019-04-25T18:35:08Z" finished-at="2019-04-25T18:35:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\login 04_25_2019 18_35_09.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\login 04_25_2019 18_35_09.png' height='100' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\login 04_25_2019 18_35_15.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\login 04_25_2019 18_35_15.png' height='100' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\login 04_25_2019 18_35_26.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\login 04_25_2019 18_35_26.png' height='100' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="selectDatabase(java.lang.String)[pri:2, instance:com.kmginfotech.medusaemr.scenarios.CreatePatient@22635ba0]" name="selectDatabase" duration-ms="10565" started-at="2019-04-25T18:35:27Z" finished-at="2019-04-25T18:35:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectDatabase 04_25_2019 18_35_29.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectDatabase 04_25_2019 18_35_29.png' height='100' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectDatabase 04_25_2019 18_35_37.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectDatabase 04_25_2019 18_35_37.png' height='100' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectDatabase -->
+        <test-method status="PASS" signature="selectClientId(java.lang.String)[pri:3, instance:com.kmginfotech.medusaemr.scenarios.CreatePatient@22635ba0]" name="selectClientId" duration-ms="7732" started-at="2019-04-25T18:35:38Z" finished-at="2019-04-25T18:35:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectClientId 04_25_2019 18_35_40.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectClientId 04_25_2019 18_35_40.png' height='100' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectClientId 04_25_2019 18_35_44.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectClientId 04_25_2019 18_35_44.png' height='100' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectClientId -->
+        <test-method status="PASS" signature="selectPreferenceEmr(java.lang.String)[pri:4, instance:com.kmginfotech.medusaemr.scenarios.CreatePatient@22635ba0]" name="selectPreferenceEmr" duration-ms="7629" started-at="2019-04-25T18:35:45Z" finished-at="2019-04-25T18:35:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectPreferenceEmr 04_25_2019 18_35_45.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectPreferenceEmr 04_25_2019 18_35_45.png' height='100' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectPreferenceEmr 04_25_2019 18_35_52.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\selectPreferenceEmr 04_25_2019 18_35_52.png' height='100' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectPreferenceEmr -->
+        <test-method status="PASS" signature="moveToTheWindowEhr(java.lang.String)[pri:5, instance:com.kmginfotech.medusaemr.scenarios.CreatePatient@22635ba0]" name="moveToTheWindowEhr" duration-ms="25135" started-at="2019-04-25T18:35:53Z" finished-at="2019-04-25T18:36:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheWindowEhr 04_25_2019 18_36_15.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheWindowEhr 04_25_2019 18_36_15.png' height='100' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheWindowEhr 04_25_2019 18_36_17.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheWindowEhr 04_25_2019 18_36_17.png' height='100' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- moveToTheWindowEhr -->
+        <test-method status="PASS" signature="moveToTheFrontDesk(java.lang.String)[pri:6, instance:com.kmginfotech.medusaemr.scenarios.CreatePatient@22635ba0]" name="moveToTheFrontDesk" duration-ms="15336" started-at="2019-04-25T18:36:18Z" finished-at="2019-04-25T18:36:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheFrontDesk 04_25_2019 18_36_18.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheFrontDesk 04_25_2019 18_36_18.png' height='100' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheFrontDesk 04_25_2019 18_36_32.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheFrontDesk 04_25_2019 18_36_32.png' height='100' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- moveToTheFrontDesk -->
+        <test-method status="PASS" signature="moveToTheAddNewPatirntForm(java.lang.String)[pri:7, instance:com.kmginfotech.medusaemr.scenarios.CreatePatient@22635ba0]" name="moveToTheAddNewPatirntForm" duration-ms="16383" started-at="2019-04-25T18:36:34Z" finished-at="2019-04-25T18:36:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheAddNewPatirntForm 04_25_2019 18_36_49.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\moveToTheAddNewPatirntForm 04_25_2019 18_36_49.png' height='100' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- moveToTheAddNewPatirntForm -->
+        <test-method status="PASS" signature="createNewPatient(java.lang.String)[pri:8, instance:com.kmginfotech.medusaemr.scenarios.CreatePatient@22635ba0]" name="createNewPatient" duration-ms="54511" started-at="2019-04-25T18:36:50Z" finished-at="2019-04-25T18:37:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\createNewPatient 04_25_2019 18_37_43.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\createNewPatient 04_25_2019 18_37_43.png' height='100' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createNewPatient -->
+        <test-method status="PASS" signature="checkedIn(java.lang.String)[pri:9, instance:com.kmginfotech.medusaemr.scenarios.CreatePatient@22635ba0]" name="checkedIn" duration-ms="35892" started-at="2019-04-25T18:37:44Z" finished-at="2019-04-25T18:38:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_37_44.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_37_44.png' height='100' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_38_05.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_38_05.png' height='100' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_38_11.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_38_11.png' height='100' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_38_17.png'> <img src='D:\Project Automation\NewWorkSpace\Emr\.\TestReports\ScreenShots\CreatePatient\chrome\checkedIn 04_25_2019 18_38_17.png' height='100' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkedIn -->
+        <test-method status="PASS" signature="writeReport()[pri:0, instance:com.kmginfotech.medusaemr.scenarios.CreatePatient@22635ba0]" name="writeReport" is-config="true" duration-ms="1127" started-at="2019-04-25T18:38:20Z" finished-at="2019-04-25T18:38:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeReport -->
+      </class> <!-- com.kmginfotech.medusaemr.scenarios.CreatePatient -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
